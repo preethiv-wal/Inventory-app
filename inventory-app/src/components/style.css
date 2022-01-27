@@ -1,0 +1,77 @@
+.item-card {
+    margin-bottom: 25px;
+    border-radius: 7px;
+}
+.item-image {
+    width: 100%;
+    height: 250px;
+    padding: 20px;
+    border-radius:20px;
+}
+.card-heading {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+.card-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blue;
+}
+.card-buttons {
+    display:flex;
+    justify-content: center;
+}
+.card-button {
+    color: white;
+    background-color: green;
+    border-style: none;
+    width: 100px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.add-button{
+    margin-left: 600px;
+    background-color:blue;
+    width: 150px;
+    color: white;
+    border-style: none;
+    margin-bottom: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.inputs{
+    margin-bottom: 10px;
+}
+.inputs input{
+    width : 100%;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 2px solid blue;
+}
+.inputs label{
+    color: green;
+    font-size: 18px;
+}
+.form-heading{
+    color: darkred;
+}
+.new-item-parent {
+    display: flex;
+    justify-content: center;
+}
+.new-item {
+    background-color: green;
+    color: white;
+    width: 140px;
+    height: 45px;
+    font-size: 19px;
+    border-radius: 9px;
+    margin-bottom: 20px;
+    border-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+}

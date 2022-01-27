@@ -1,0 +1,14 @@
+.main-heading {
+  text-align: center;
+  color: whitesmoke;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.heading {
+  background-color: darkblue;
+  margin-bottom: 35px;
+  padding: 10px;
+}
+.App {
+  width: 100vw;
+  text-align: center;
+}
